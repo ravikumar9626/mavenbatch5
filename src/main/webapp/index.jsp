@@ -2,7 +2,7 @@
 <body>
 <h2>               Hello Friends!               </h2>
 <h3> !!!!!!!! WELCOME TO DEVOPS with GCP !!!!!!!!     </h3>
-<h3>    from release_0.0.2 branch  </h3>        
+<h3>    from release_0.0.3 branch  </h3>        
 <h4> @Trainers - S@ty@ / KIRAN / MUNESH  / FAYAZ    </h4>
 <marquee behavior="alternate">Devops</marquee>
 <font color="WHITE"><marquee direction="left" style="background:RED">DEVOPS</marquee></font>

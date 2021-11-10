@@ -16,6 +16,6 @@ project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2
     </dependency>
   </dependencies>
   <build>
-    <finalName>release_0.0.2</finalName>
+    <finalName>release_0.0.3</finalName>
   </build>
 </project>
