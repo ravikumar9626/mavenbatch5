@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>realease_0.0.1</finalName>
+    <finalName>flipkart</finalName>
   </build>
 </project>
